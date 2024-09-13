@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Rohit kumar</h1>
 <h3 align="center">Building Solutions, One Line of Code at a Time | Innovating for a Better Tomorrow</h3>
 <p align="left"> 
-  <img align="right" alt="coding" src="https://i.redd.it/n8agw6z2smyb1.gif" width="500" style="margin-left: 20px;"/>
-  🔭 I’m currently working on <strong>StayNest</strong><br>
+  <img align="right" alt="coding" src="https://i.redd.it/n8agw6z2smyb1.gif"  width="500" style="margin-left: 20px; float: right;"/>
+  🔭 I’m currently working on <strong>StayNest</strong> <br>
+  
   🌱 I’m currently learning <strong>next.js</strong><br>
+  
   💬 Ask me about <strong>MERN</strong><br>
+  
   📫 How to reach me <strong>tealsrohit369@gmail.com</strong><br>
+  
   ⚡ Fun fact <strong>I write code faster than my coffee cools down!</strong>
 </p>
 

@@ -1,22 +1,24 @@
 <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s640x960/99422fdf80cbae58e28cd8f7908cae62a0fe45d1.gif" alt="MasterHead" width="3000" height="400" />
 <h1 align="center">Hi 👋, I'm Rohit kumar</h1>
 <h3 align="center">Building Solutions, One Line of Code at a Time | Innovating for a Better Tomorrow</h3>
-<img align=“right” alt=“coding” src="https://i.redd.it/n8agw6z2smyb1.gif" width=“300" height=“300" allowFullScreen />
+<p align="left"> 
+  <img align="right" alt="coding" src="https://i.redd.it/n8agw6z2smyb1.gif" width="500" style="margin-left: 20px;"/>
+  🔭 I’m currently working on <strong>StayNest</strong><br>
+  🌱 I’m currently learning <strong>next.js</strong><br>
+  💬 Ask me about <strong>MERN</strong><br>
+  📫 How to reach me <strong>tealsrohit369@gmail.com</strong><br>
+  ⚡ Fun fact <strong>I write code faster than my coffee cools down!</strong>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitninja36&label=Profile%20views&color=0e75b6&style=flat" alt="gitninja36" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=gitninja36&label=Profile%20views&color=0e75b6&style=flat" alt="gitninja36" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/dracoo_36" target="blank"><img src="https://img.shields.io/twitter/follow/dracoo_36?logo=twitter&style=for-the-badge" alt="dracoo_36" /></a> </p>
-
-- 🔭 I’m currently working on **StayNest**
-
-- 🌱 I’m currently learning **next.js**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **tealsrohit369@gmail.com**
-
-- ⚡ Fun fact **I write code faster than my coffee cools down!**
-
+<p align="left"> 
+  <a href="https://twitter.com/dracoo_36" target="blank">
+    <img src="https://img.shields.io/twitter/follow/dracoo_36?logo=twitter&style=for-the-badge" alt="dracoo_36" />
+  </a> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dracoo_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dracoo_36" height="30" width="40" /></a>

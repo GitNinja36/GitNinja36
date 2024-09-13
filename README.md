@@ -1,5 +1,5 @@
 <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s640x960/99422fdf80cbae58e28cd8f7908cae62a0fe45d1.gif" alt="MasterHead" width="3000" height="400" />
-<h1 align="center">Hi 👋, I'm Rohit kumar</h1>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Building Solutions, One Line of Code at a Time | Innovating for a Better Tomorrow</h3>
 <p align="left"> 
   <img align="right" alt="coding" src="https://i.redd.it/n8agw6z2smyb1.gif"  width="500" style="margin-left: 20px; float: right;"/>

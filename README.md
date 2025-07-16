@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dracoo_36" target="blank"><img src="https://img.shields.io/twitter/follow/dracoo_36?logo=twitter&style=for-the-badge" alt="dracoo_36" /></a> </p>
 
-- 🔭 I’m currently working on [StockPilot](https://github.com/GitNinja36/StockPilot)
+- 🔭 I’m currently working on [medicon](https://github.com/GitNinja36/medicon)
 
 - 🌱 I’m currently learning **next.js**
 
